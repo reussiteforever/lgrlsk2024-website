@@ -39,10 +39,10 @@ export default defineNuxtConfig({
         { src: "/js/rsmenu-main.js", type: 'text/javascript' },
         { src: "/js/plugins.js", type: 'text/javascript' },
         { src: "/js/time-circle.js", type: 'text/javascript' },
-        { src: "/js/main.js", type: 'text/javascript' }
-        // { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
-        // { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
-        // { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
+        { src: "/js/main.js", type: 'text/javascript' },
+        { src: "/js/jquery.time-to.min.js", type: 'text/javascript' },
+        { src: "/js/gmap.js", type: 'text/javascript' },
+        { src: "/js/event-timeline.js", type: 'text/javascript' }
         // { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
         // { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' }
       ],
