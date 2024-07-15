@@ -159,7 +159,7 @@
                                 - L'événement sera ouvert au public externe au Lycée Scientifique de Kara <br>
                                 - L’événement tiendra sur 1 mois <br>
                                 - Il y aura des activités éducatives et/ou récréatives toutes les semaines <br>
-                                - L’apothéose sera un dîner de  gala le Samedi de la dernière semaine.  
+                                - L'apothéose sera un dîner de  gala le Samedi de la dernière semaine.  
                             </p>
                             <a class="primary-btn" href="about.html">Voir Le Programme Complet</a>
                         </div>
@@ -234,8 +234,9 @@
                                 <div class="event-shedule-info">
                                     <h4 class="speaker-name"><a href="#"><i class="fa fa-soccer-ball-o"></i> Samedi 03 Août 2024</a></h4>
                                     <h3 class="event-title"><a href="#">Tournoi de Foot</a></h3>
-                                    <p class="event-des">Un tournoi qui va, dans une ambiance conviviale, rassembler des équipes des deux Lycées Scientifiques du Togo, 
-                                        de L'ESSAL, de L'EAMAU et de l'AET. 
+                                    <p class="event-des">Un tournoi à double élimination qui va rassembler des équipes des deux Lycées Scientifiques du Togo, 
+                                        de L'ESSAL, de L'EAMAU et de l'AET. Ce tournoi de football vise à promouvoir le sport, à encourager l'esprit d'équipe, et à renforcer les liens.
+                                        Lieu : Terrain Cité OUA.
                                     </p>
                                     <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>14:00 - 18:00</span>
                                 </div>
@@ -249,11 +250,11 @@
 
                             <div class="cd-timeline__content bg-color-2 js-cd-content">
                                 <div class="event-shedule-info">
-                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-microphone"></i> Seroun
-                                            Pawor</a></h4>
+                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-road"></i> Samedi 10 Août 2024</a></h4>
                                     <h3 class="event-title"><a href="#">Journée Citoyenne</a></h3>
-                                    <p class="event-des">In cultures which traditionally or currently use calendars
-                                        other than the Gregorian.</p>
+                                    <p class="event-des">L’activité portant sur la journée citoyenne vise à rendre propre la plage de l'hôtel PALM BEACH dans une ambiance 
+                                        festive et amusante. Est invité à cet effet, tout citoyen préoccupé par les questions sur l’hygiène 
+                                        et la propreté environnementale, âgé d’au moins 15 ans.</p>
                                     <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>08:00 - 10:30</span>
                                 </div>
                             </div> <!-- cd-timeline__content -->
@@ -266,12 +267,15 @@
 
                             <div class="cd-timeline__content bg-color-3 js-cd-content">
                                 <div class="event-shedule-info">
-                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-microphone"></i> Hose
-                                            Morinho</a></h4>
-                                    <h3 class="event-title"><a href="#">New Year Plan</a></h3>
-                                    <p class="event-des">In cultures which traditionally or currently use calendars
-                                        other than the Gregorian.</p>
-                                    <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>12:00 - 13:00:00</span>
+                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-group"></i> Samedi 17 Août 2024</a></h4>
+                                    <h3 class="event-title"><a href="#">Footing</a></h3>
+                                    <p class="event-des">Cette activité basée sur le thème « Ma santé mentale, mon combat. » est ouverte au public
+                                        sans restriction âgé de plus de 10 ans.
+                                        L’objectif principale de cette activité est aussi de travailler les
+                                        muscles et d’en apprendre plus sur la santé mentale sur tous les plans.
+                                        Le rassemblement sera au Palais des congrès à 6h30.
+                                    </p>
+                                    <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>07:00 - 11:00</span>
                                 </div>
                             </div> <!-- cd-timeline__content -->
                         </div> <!-- cd-timeline__block -->
@@ -283,11 +287,11 @@
 
                             <div class="cd-timeline__content bg-color-4 js-cd-content">
                                 <div class="event-shedule-info">
-                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-microphone"></i> Hose
-                                            Morinho</a></h4>
-                                    <h3 class="event-title"><a href="#">New Year Introduction</a></h3>
-                                    <p class="event-des">In cultures which traditionally or currently use calendars
-                                        other than the Gregorian.</p>
+                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-money"></i> Samedi 24 Août 2024
+                                            </a></h4>
+                                    <h3 class="event-title"><a href="#">Formation AGR</a></h3>
+                                    <p class="event-des">La formation sur les Activités Génératrices de Revenus vise à donner une base sur différentes activités à tous les apprenants, faire comprendre qu’il est possible de générer des revenus 
+                                        même en étant étudiant ou employé et qu’à partir d’un petit capital de départ il est possible de commencer une activité.</p>
                                     <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>14:00 - 15:00:00</span>
                                 </div>
                             </div> <!-- cd-timeline__content -->
@@ -300,29 +304,13 @@
 
                             <div class="cd-timeline__content bg-color-5 js-cd-content">
                                 <div class="event-shedule-info">
-                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-microphone"></i> Hose
-                                            Morinho</a></h4>
-                                    <h3 class="event-title"><a href="#">Success History</a></h3>
-                                    <p class="event-des">In cultures which traditionally or currently use calendars
-                                        other than the Gregorian.</p>
-                                    <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>15:00 - 16:00:00</span>
-                                </div>
-                            </div> <!-- cd-timeline__content -->
-                        </div> <!-- cd-timeline__block -->
-
-                        <div class="cd-timeline__block js-cd-block">
-                            <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                                <img src="~/assets/images/team/11.jpg" alt="Timeline Picture">
-                            </div> <!-- cd-timeline__img -->
-
-                            <div class="cd-timeline__content bg-color-6 js-cd-content">
-                                <div class="event-shedule-info">
-                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-microphone"></i> Rihana
-                                            kery</a></h4>
-                                    <h3 class="event-title"><a href="#">Failurness History</a></h3>
-                                    <p class="event-des">In cultures which traditionally or currently use calendars
-                                        other than the Gregorian.</p>
-                                    <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>16:00 - 17:00:00</span>
+                                    <h4 class="speaker-name"><a href="#"><i class="fa fa-microphone"></i> Samedi 31 Août 2024
+                                            </a></h4>
+                                    <h3 class="event-title"><a href="#">Soirée De Gala</a></h3>
+                                    <p class="event-des">La soirée de Gala est l’activité phare de la célébration des grandes retrouvailles LSK 2024. Cette activité ouverte au public et basée sur le thème : « Promotion de la scolarisation des jeunes défavorisés »
+                                        va réunir les anciens et actuels élèves du Lycée Scientifique de Kara ainsi que tous les acteurs ayant contribué et qui continuent par le faire, au bon fonctionnement de ladite école, et leurs proches dans une ambiance conviviale, récréative et festive.
+                                    </p>
+                                    <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>16:00 - 22:00</span>
                                 </div>
                             </div> <!-- cd-timeline__content -->
                         </div> <!-- cd-timeline__block -->
