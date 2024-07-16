@@ -1,5 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  features:{
+    inlineStyles: false
+  },
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
   css: ['~/assets/css/bootstrap.min.css', '~/assets/css/font-awesome.min.css', '~/assets/css/animate.css', '~/assets/css/owl.carousel.css',
