@@ -28,14 +28,12 @@
                                 <nav class="rs-menu">
                                     <ul class="nav-menu">
                                         <!-- Home -->
-                                        <li
-                                            class="current-menu-item current_page_item menu-item-has-children rs-mega-menu mega-rs">
+                                        <li>
                                             <a href="#" class="home">Accueil</a>
                                         </li>
                                         <!-- End Home -->
 
-                                        <li class="menu-item-has-children"><a href="#programme">Programme</a>
-                                        </li>
+                                        <li><a href="#programme">Programme</a></li>
                                         <li> <a href="#our-event-sponsors">Sponsors</a></li>
 
                                         <!-- <li class="menu-item-has-children"> <a href="#">Speakers</a>
@@ -152,7 +150,7 @@
                     <div class="col-md-12">
                         <div class="about-des plr-70 text-center">
                             <p>L’idée de réunir tous les élèves du Lycée Scientifique de Kara (LSK) a eu lieu pour la première fois en  2016, 
-                                s’en est suivi les éditions d'Août 2017, 2018, 2019, et 2023. A travers ces rencontres, 
+                                s’en sont suivi les éditions d'Août 2017, 2018, 2019, et 2023. A travers ces rencontres, 
                                 nous avons pu maintenir le lien entre les anciens et actuels élèves du Lycée.
                                 Cette édition sera une première car  nous changeons de philosophie concernant l’organisation de l’évènement. 
                                 Traditionnellement, la fête se résumait à une soirée de rencontre, partage, déjeuner et réjouissances.
@@ -224,14 +222,14 @@
             <div class="container">
                 <div class="sec-title text-center">
                     <span>Programme</span>
-                    <h2>Les Activités Programmés Pour L'évènement</h2>      
+                    <h2>Les Activités Programmées Pour L'évènement</h2>      
                 </div>
                 <div class="cd-timeline js-cd-timeline">
                     <div class="cd-timeline__container">
 
                         <div class="cd-timeline__block js-cd-block">
                             <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                                <img src="~/assets/images/team/12.jpg" alt="Timeline Picture">
+                                <img src="~/assets/images/clock.png" alt="Timeline Picture">
                             </div> <!-- cd-timeline__img -->
 
                             <div class="cd-timeline__content bg-color-1 js-cd-content">
@@ -249,7 +247,7 @@
 
                         <div class="cd-timeline__block js-cd-block">
                             <div class="cd-timeline__img cd-timeline__img--movie js-cd-img">
-                                <img src="~/assets/images/team/7.jpg" alt="Timeline Picture">
+                                <img src="~/assets/images/clock.png" alt="Timeline Picture">
                             </div> <!-- cd-timeline__img -->
 
                             <div class="cd-timeline__content bg-color-2 js-cd-content">
@@ -266,7 +264,7 @@
 
                         <div class="cd-timeline__block js-cd-block">
                             <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                                <img src="~/assets/images/team/8.jpg" alt="Timeline Picture">
+                                <img src="~/assets/images/clock.png" alt="Timeline Picture">
                             </div> <!-- cd-timeline__img -->
 
                             <div class="cd-timeline__content bg-color-3 js-cd-content">
@@ -286,7 +284,7 @@
 
                         <div class="cd-timeline__block js-cd-block">
                             <div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
-                                <img src="~/assets/images/team/9.jpg" alt="Timeline Picture">
+                                <img src="~/assets/images/clock.png" alt="Timeline Picture">
                             </div> <!-- cd-timeline__img -->
 
                             <div class="cd-timeline__content bg-color-4 js-cd-content">
@@ -303,7 +301,7 @@
 
                         <div class="cd-timeline__block js-cd-block">
                             <div class="cd-timeline__img cd-timeline__img--movie js-cd-img">
-                                <img src="~/assets/images/team/10.jpg" alt="Timeline Picture">
+                                <img src="~/assets/images/clock.png" alt="Timeline Picture">
                             </div> <!-- cd-timeline__img -->
 
                             <div class="cd-timeline__content bg-color-5 js-cd-content">
@@ -314,7 +312,7 @@
                                     <p class="event-des">La soirée de Gala est l’activité phare de la célébration des grandes retrouvailles LSK 2024. Cette activité ouverte au public et basée sur le thème : « Promotion de la scolarisation des jeunes défavorisés »
                                         va réunir les anciens et actuels élèves du Lycée Scientifique de Kara ainsi que tous les acteurs ayant contribué et qui continuent par le faire, au bon fonctionnement de ladite école, et leurs proches dans une ambiance conviviale, récréative et festive.
                                     </p>
-                                    <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>16:00 - 22:00</span>
+                                    <span class="cd-timeline__date"><i class="fa fa-clock-o"></i>18:00 - 22:00</span>
                                 </div>
                             </div> <!-- cd-timeline__content -->
                         </div> <!-- cd-timeline__block -->
@@ -353,7 +351,7 @@
                                 </div>
                                 <div class="bottom">
                                     <div class="cl-footer">
-                                        <a href="#" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
+                                        <a href="https://wa.me/22871676708" target="_blank" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
                                     </div>
                                 </div>
                             </div>
@@ -385,7 +383,7 @@
                                 </div>
                                 <div class="bottom">
                                     <div class="cl-footer">
-                                        <a href="#" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
+                                        <a href="https://wa.me/22871676708" target="_blank" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
                                     </div>
                                 </div>
                             </div>
@@ -409,7 +407,7 @@
                                 </div>
                                 <div class="bottom">
                                     <div class="cl-footer">
-                                        <a href="#" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
+                                        <a href="https://wa.me/22871676708" target="_blank" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
                                     </div>
                                 </div>
                             </div>
@@ -449,7 +447,7 @@
                                 </div>
                                 <div class="bottom">
                                     <div class="cl-footer">
-                                        <a href="#" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
+                                        <a href="https://wa.me/22871676708" target="_blank" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
                                     </div>
                                 </div>
                             </div>
@@ -474,7 +472,7 @@
                                 </div>
                                 <div class="bottom">
                                     <div class="cl-footer">
-                                        <a href="#" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
+                                        <a href="https://wa.me/22871676708" target="_blank" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
                                     </div>
                                 </div>
                             </div>
@@ -619,18 +617,18 @@
                         <div class="col-md-4 col-sm-12">
                             <div class="content-grid">
                                 <h4 class="title">Contacts</h4>
-                                <a class="contact-link" target="_blank" href="#">+22871676708</a>
+                                <a class="contact-link" target="_blank" href="https://wa.me/22871676708">+22871676708</a>
                                 <br>
-                                <a class="contact-link" target="_blank" href="#">+22879766573</a>
+                                <a class="contact-link" target="_blank" href="https://wa.me/22879766573">+22879766573</a>
                                 <br>
-                                <a class="contact-link" target="_blank" href="#">lgrlsk24@gmail.com</a>
+                                <a class="contact-link" target="_blank" href="mailto:lgrlsk24@gmail.com">lgrlsk24@gmail.com</a>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-12">
                             <div class="content-grid text-left">
                                 <h4 class="title">Abonnez-vous</h4>
                                 <div class="form-inner">
-                                    <input type="email" name="email" id="sign-up" placeholder="Your Email Address">
+                                    <input type="email" name="email" id="sign-up" placeholder="Entrez Votre Email">
                                     <button type="submit"><i class="fa fa-paper-plane"></i></button>
                                 </div>
                             </div>
