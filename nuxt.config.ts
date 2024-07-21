@@ -5,10 +5,6 @@ export default defineNuxtConfig({
   },
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
-  css: ['~/assets/css/bootstrap.min.css', '~/assets/css/font-awesome.min.css', '~/assets/css/animate.css', '~/assets/css/owl.carousel.css',
-    '~/assets/css/slick.css', '~/assets/css/magnific-popup.css', '~/assets/css/icofont.css', '~/assets/css/timeTo.css',
-    '~/assets/css/rsmenu-main.css', '~/assets/css/rsmenu-transitions.css', '~/assets/css/style.css', '~/assets/css/responsive.css'
-  ],
   app: {
     head: {
       title: "LGRLSK2024",
@@ -28,7 +24,20 @@ export default defineNuxtConfig({
           "content": "ie-edge"
         }
       ],
-      link: [],
+      link: [
+        // {rel:"stylesheet", href:"/css/bootstrap.min.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/font-awesome.min.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/animate.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/owl.carousel.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/slick.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/magnific-popup.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/icofont.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/timeTo.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/rsmenu-main.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/rsmenu-transitions.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/style.css", type:"text/css"},
+        // {rel:"stylesheet", href:"/css/responsive.css", type:"text/css"}
+      ],
       style: [],
       script: [
         { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
@@ -52,4 +61,9 @@ export default defineNuxtConfig({
       noscript: []
     }
   }
+  ,
+  css: ['~/assets/css/bootstrap.min.css', '~/assets/css/font-awesome.min.css', '~/assets/css/animate.css', '~/assets/css/owl.carousel.css',
+    '~/assets/css/slick.css', '~/assets/css/magnific-popup.css', '~/assets/css/icofont.css', '~/assets/css/timeTo.css',
+    '~/assets/css/rsmenu-main.css', '~/assets/css/rsmenu-transitions.css', '~/assets/css/style.css', '~/assets/css/responsive.css'
+  ]
 })

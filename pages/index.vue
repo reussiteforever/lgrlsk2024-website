@@ -34,9 +34,9 @@
                                         </li>
                                         <!-- End Home -->
 
-                                        <li class="menu-item-has-children"><a href="schedule.html">Programme</a>
+                                        <li class="menu-item-has-children"><a href="#programme">Programme</a>
                                         </li>
-                                        <li> <a href="sponsors.html">Sponsors</a></li>
+                                        <li> <a href="#our-event-sponsors">Sponsors</a></li>
 
                                         <!-- <li class="menu-item-has-children"> <a href="#">Speakers</a>
                                                 <ul class="sub-menu">
@@ -80,11 +80,11 @@
                                                     <li><a href="blog-details.html">Blog Single</a></li>
                                                 </ul>
                                             </li> -->
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <!-- <li><a href="contact.html">Contact</a></li> -->
                                     </ul>
                                 </nav>
                                 <div class="buy-tickets">
-                                    <a href="#" class="primary-btn" data-animation-in="lightSpeedIn"
+                                    <a href="https://wa.me/22871676708" target="_blank" class="primary-btn" data-animation-in="lightSpeedIn"
                                         data-animation-out="animate-out">Votre Ticket Ici</a>
                                 </div>
                             </div>
@@ -108,22 +108,27 @@
                                 <div class="container">
                                     <h1 class="slider-title" data-animation-in="fadeInLeft"
                                         data-animation-out="animate-out">
-                                        Les Grandes Retrouvailles LSK <span class="text-success">Gala &
-                                            Réseautage</span>
+                                        Les Grandes Retrouvailles LSK 
+                                        <span class="text-success">*Ouvert Au Grand Public</span>
                                     </h1>
-                                    <!-- sous-titre
-                                        <h3 class="text-success" data-animation-in="fadeInLeft"
-                                            data-animation-out="animate-out">
-                                            Vivez un événement unique - boostez votre réseau et succès professionnel !
-                                        </h3> -->
 
                                     <div class="countdown-section">
                                         <div id="countdown-3"></div>
                                     </div>
 
-                                    <a href="#" class="primary-btn mr-30" data-animation-in="lightSpeedIn"
+                                    <!-- <div class="banner-counter5"> -->
+                                        <div class="timecounter-inner">
+                                            <div class="coming-soon-part">
+                                                <div class="coming-soon-text">    
+                                                    <div data-animation-in="slideInLeft" data-animation-out="animate-out fadeOut" class="CountDownTimer3" data-date="2018-10-31 00:00:00"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <!-- </div> -->
+
+                                    <a href="https://wa.me/22871676708" target="_blank" class="primary-btn mr-30" data-animation-in="lightSpeedIn"
                                         data-animation-out="animate-out">Rejoignez-nous</a>
-                                    <a href="about.html" class="secondary-btn" data-animation-in="lightSpeedIn"
+                                    <a href="#programme" class="secondary-btn" data-animation-in="lightSpeedIn"
                                         data-animation-out="animate-out">Programme</a>
 
                                 </div>
@@ -140,8 +145,7 @@
         <div id="rs-about" class="rs-about section-image sec-spacer">
             <div class="container">
                 <div class="sec-title text-center">
-                    <span>Bienvenue Aux LGRLSK Édition 2024</span>
-                    <!-- <h2>À PROPOS DE L'ORGANISATION DE L'ÉVÉNEMENT</h2> -->
+                    <span>LGRLSK Édition 2024</span>
                     <h2>TOUT SAVOIR SUR L'ORGANISATION DE L'ÉVÉNEMENT</h2>
                 </div>
                 <div class="row">
@@ -161,7 +165,7 @@
                                 - Il y aura des activités éducatives et/ou récréatives toutes les semaines <br>
                                 - L'apothéose sera un dîner de  gala le Samedi de la dernière semaine.  
                             </p>
-                            <a class="primary-btn" href="about.html">Voir Le Programme Complet</a>
+                            <a class="primary-btn" href="#programme">Voir Le Programme Complet</a>
                         </div>
                     </div>
                 </div>
@@ -216,7 +220,7 @@
         <!-- Join events End -->
 
         <!-- Our Event Schedule Start -->
-        <div class="event-schedule-timeline sec-spacer">
+        <div class="event-schedule-timeline sec-spacer" id="programme">
             <div class="container">
                 <div class="sec-title text-center">
                     <span>Programme</span>
@@ -321,255 +325,8 @@
         </div>
         <!-- Our Event Schedule End -->
 
-        <!-- Team Start -->
-        <div id="rs-team" class="rs-team transparent-team fullwidth-team gray-color pt-100 pb-70">
-            <div class="container">
-                <div class="sec-title text-center">
-                    <span>Speakers</span>
-                    <h2>Best Event Speakers</h2>
-                </div>
-                <div class="row margin-0">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="~/assets/images/team/team1.jpg" alt="team Image" />
-                                <div class="normal-text">
-                                    <h4 class="team-name">Seroun Pawor</h4>
-                                    <span class="subtitle">CEO & Founder</span>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="display-table">
-                                    <div class="display-table-cell">
-                                        <div class="share-icons">
-                                            <div class="border"></div>
-                                            <ul class="team-social icons-1">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
-                                                </li>
-                                            </ul>
-
-                                            <ul class="team-social icons-2">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-skype"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="team-details">
-                                            <h4 class="team-name">
-                                                <a href="speakers-single.html">Seroun Pawor</a>
-                                            </h4>
-                                            <span class="postion">CEO & Founder</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="~/assets/images/team/team2.jpg" alt="team Image" />
-                                <div class="normal-text">
-                                    <h4 class="team-name">Mariono Rose</h4>
-                                    <span class="subtitle">CEO & Founder</span>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="display-table">
-                                    <div class="display-table-cell">
-                                        <div class="share-icons">
-                                            <div class="border"></div>
-                                            <ul class="team-social icons-1">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
-                                                </li>
-                                            </ul>
-
-                                            <ul class="team-social icons-2">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-skype"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="team-details">
-                                            <h4 class="team-name">
-                                                <a href="speakers-single.html">Mariono Rose</a>
-                                            </h4>
-                                            <span class="postion">CEO & Founder</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="~/assets/images/team/team3.jpg" alt="team Image" />
-                                <div class="normal-text">
-                                    <h4 class="team-name">Stiven Smith</h4>
-                                    <span class="subtitle">CEO & Founder</span>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="display-table">
-                                    <div class="display-table-cell">
-                                        <div class="share-icons">
-                                            <div class="border"></div>
-                                            <ul class="team-social icons-1">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
-                                                </li>
-                                            </ul>
-
-                                            <ul class="team-social icons-2">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-skype"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="team-details">
-                                            <h4 class="team-name">
-                                                <a href="speakers-single.html">Stiven Smith</a>
-                                            </h4>
-                                            <span class="postion">CEO & Founder</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="~/assets/images/team/team4.jpg" alt="team Image" />
-                                <div class="normal-text">
-                                    <h4 class="team-name">Hose Morinho</h4>
-                                    <span class="subtitle">CEO & Founder</span>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="display-table">
-                                    <div class="display-table-cell">
-                                        <div class="share-icons">
-                                            <div class="border"></div>
-                                            <ul class="team-social icons-1">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
-                                                </li>
-                                            </ul>
-
-                                            <ul class="team-social icons-2">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-skype"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="team-details">
-                                            <h4 class="team-name">
-                                                <a href="speakers-single.html">Hose Morinho</a>
-                                            </h4>
-                                            <span class="postion">CEO & Founder</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="~/assets/images/team/team5.jpg" alt="team Image" />
-                                <div class="normal-text">
-                                    <h4 class="team-name">Rihana kery</h4>
-                                    <span class="subtitle">CEO & Founder</span>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="display-table">
-                                    <div class="display-table-cell">
-                                        <div class="share-icons">
-                                            <div class="border"></div>
-                                            <ul class="team-social icons-1">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
-                                                </li>
-                                            </ul>
-
-                                            <ul class="team-social icons-2">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-skype"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="team-details">
-                                            <h4 class="team-name">
-                                                <a href="speakers-single.html">Rihana kery</a>
-                                            </h4>
-                                            <span class="postion">CEO & Founder</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="~/assets/images/team/team6.jpg" alt="team Image" />
-                                <div class="normal-text">
-                                    <h4 class="team-name">Siymon catich</h4>
-                                    <span class="subtitle">CEO & Founder</span>
-                                </div>
-                            </div>
-                            <div class="team-content">
-                                <div class="display-table">
-                                    <div class="display-table-cell">
-                                        <div class="share-icons">
-                                            <div class="border"></div>
-                                            <ul class="team-social icons-1">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-twitter"></i></a>
-                                                </li>
-                                            </ul>
-
-                                            <ul class="team-social icons-2">
-                                                <li><a href="#" class="social-icon"><i class="fa fa-skype"></i></a>
-                                                </li>
-                                                <li><a href="#" class="social-icon"><i class="fa fa-linkedin"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="team-details">
-                                            <h4 class="team-name">
-                                                <a href="speakers-single.html">Siymon catich</a>
-                                            </h4>
-                                            <span class="postion">CEO & Founder</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div><!-- .container-fullwidth -->
-        </div>
-        <!-- Team End -->
-
         <!-- Pricing Table Style Ten -->
-        <div id="price-table-section" class="price-table-section section-image sec-spacer">
+        <div id="price-table-section" class="price-table-section gray-color section-image sec-spacer">
             <div class="container">
                 <div class="sec-title text-center">
                     <span>Table Des Prix</span>
@@ -729,84 +486,87 @@
         </div>
         <!-- End Pricing Table Style Ten -->
 
-        <!-- Testimonial Start -->
-        <section id="rs-testimonial2" class="rs-testimonial2 sec-spacer gray-color">
+        <!-- Photos Start -->
+        <div id="rs-team" class="rs-team transparent-team fullwidth-team pt-100 pb-70">
             <div class="container">
                 <div class="sec-title text-center">
-                    <span>Testimonials</span>
-                    <h2>Our Client Says</h2>
+                    <span>PHOTOS</span>
+                    <h2>Quelques Images D'Editions Passées</h2>
                 </div>
-
-                <div class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30"
-                    data-autoplay="false" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="true"
-                    data-nav="false" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="false"
-                    data-mobile-device-dots="true" data-ipad-device="1" data-ipad-device-nav="false"
-                    data-ipad-device-dots="true" data-md-device="2" data-md-device-nav="false"
-                    data-md-device-dots="true">
-
-                    <div class="single-testimonials text-center">
-                        <div class="testimonial-content">
-                            <img src="~/assets/images/testimonial/1.jpg" alt="Client Image">
-                            <p><i class="fa fa-quote-left"></i> Amazing plugin and top class support, as I’m a
-                                beginner, Luke helped me above and beyond and was more than patient, his responses
-                                were quick and he has a genuine care for you to enjoy and move forward plugin!</p>
-
-                            <ul class="cl-author-info">
-                                <li>Victor Valdes</li>
-                                <li>CEO & Founder</li>
-                            </ul>
+                <div class="row margin-0">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="~/assets/images/promotions/promo1.jpg" alt="Promotion 1 LSK" />
+                                <div class="normal-text">
+                                    <h4 class="team-name">Promotion 1 LSK</h4>
+                                    <span class="subtitle">Photo prise lors du Meetup LSK 2023</span>
+                                </div>
+                            </div>
                         </div>
-                    </div><!-- .single-testimonials -->
-
-                    <div class="single-testimonials text-center">
-                        <div class="testimonial-content">
-                            <img src="~/assets/images/testimonial/2.jpg" alt="Client Image">
-                            <p><i class="fa fa-quote-left"></i> Amazing plugin and top class support, as I’m a
-                                beginner, Luke helped me above and beyond and was more than patient, his responses
-                                were quick and he has a genuine care for you to enjoy and move forward plugin!</p>
-
-                            <ul class="cl-author-info">
-                                <li>David Punk</li>
-                                <li>Senior Developer</li>
-                            </ul>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="~/assets/images/promotions/promo3.jpg" alt="Promotion 1 LSK" />
+                                <div class="normal-text">
+                                    <h4 class="team-name">Promotion 3 LSK</h4>
+                                    <span class="subtitle">Photo prise lors du Meetup LSK 2023</span>
+                                </div>
+                            </div>
                         </div>
-                    </div><!-- .single-testimonials -->
-
-                    <div class="single-testimonials text-center">
-                        <div class="testimonial-content">
-                            <img src="~/assets/images/testimonial/3.jpg" alt="Client Image">
-                            <p><i class="fa fa-quote-left"></i> Amazing plugin and top class support, as I’m a
-                                beginner, Luke helped me above and beyond and was more than patient, his responses
-                                were quick and he has a genuine care for you to enjoy and move forward plugin!</p>
-
-                            <ul class="cl-author-info">
-                                <li>Victor Valdes</li>
-                                <li>CEO & Founder</li>
-                            </ul>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="~/assets/images/promotions/promo4.jpg" alt="Promotion 4 LSK" />
+                                <div class="normal-text">
+                                    <h4 class="team-name">Candide SOSSOU, Promo 4 LSK</h4>
+                                    <span class="subtitle">Photo prise lors du Meetup LSK 2023</span>
+                                </div>
+                            </div>
                         </div>
-                    </div><!-- .single-testimonials -->
-
-                    <div class="single-testimonials text-center">
-                        <div class="testimonial-content">
-                            <img src="~/assets/images/testimonial/4.jpg" alt="Client Image">
-                            <p><i class="fa fa-quote-left"></i> Amazing plugin and top class support, as I’m a
-                                beginner, Luke helped me above and beyond and was more than patient, his responses
-                                were quick and he has a genuine care for you to enjoy and move forward plugin!</p>
-
-                            <ul class="cl-author-info">
-                                <li>David Punk</li>
-                                <li>Senior Developer</li>
-                            </ul>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="~/assets/images/promotions/promo5.jpg" alt="Promotion 5 LSK" />
+                                <div class="normal-text">
+                                    <h4 class="team-name">Promotion 5 LSK</h4>
+                                    <span class="subtitle">Photo prise lors du Meetup LSK 2023</span>
+                                </div>
+                            </div>
                         </div>
-                    </div><!-- .single-testimonials -->
-
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="~/assets/images/promotions/promo6.jpg" alt="Promotion 6 LSK" />
+                                <div class="normal-text">
+                                    <h4 class="team-name">Promotion 6 LSK</h4>
+                                    <span class="subtitle">Photo prise lors du Meetup LSK 2023</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="team-item">
+                            <div class="team-img">
+                                <img src="~/assets/images/promotions/promo9.jpg" alt="Promotion 9 LSK" />
+                                <div class="normal-text">
+                                    <h4 class="team-name">Promotion 9 LSK</h4>
+                                    <span class="subtitle">Photo prise lors du Meetup LSK 2023</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div><!-- .container -->
-        </section> <!-- Testimonial Start -->
-
+            </div><!-- .container-fullwidth -->
+        </div>
+        <!-- Photos End -->
 
         <!-- Our Event Sponsors Start -->
-        <div id="our-event-sponsors" class="our-event-sponsors sec-spacer">
+        <div id="our-event-sponsors" class="our-event-sponsors gray-color sec-spacer">
             <div class="container">
                 <div class="sec-title text-center">
                     <span>Sponsors</span>
@@ -824,22 +584,6 @@
                                             src="~/assets/images/partner/3.png" alt=""></a></li>
                                 <li class="wow fadeInUp" data-wow-duration=".8s" data-wow-delay="600ms"><a href="#"><img
                                             src="~/assets/images/partner/4.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".10s" data-wow-delay="600ms"><a
-                                        href="#"><img src="~/assets/images/partner/5.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".2s" data-wow-delay="600ms"><a href="#"><img
-                                            src="~/assets/images/partner/6.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".4s" data-wow-delay="600ms"><a href="#"><img
-                                            src="~/assets/images/partner/7.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".6s" data-wow-delay="600ms"><a href="#"><img
-                                            src="~/assets/images/partner/8.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".8s" data-wow-delay="600ms"><a href="#"><img
-                                            src="~/assets/images/partner/9.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".10s" data-wow-delay="600ms"><a
-                                        href="#"><img src="~/assets/images/partner/10.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".10s" data-wow-delay="600ms"><a
-                                        href="#"><img src="~/assets/images/partner/2.png" alt=""></a></li>
-                                <li class="wow fadeInUp" data-wow-duration=".10s" data-wow-delay="600ms"><a
-                                        href="#"><img src="~/assets/images/partner/6.png" alt=""></a></li>
                             </ul>
                         </div>
                     </div>
@@ -848,76 +592,13 @@
                     <div class="col-md-12">
                         <div class="readmore-btn text-center wow fadeInUp" data-wow-duration=".4s"
                             data-wow-delay="600ms">
-                            <a class="primary-btn" href="sponsors.html">Devenir un sponsor </a>
+                            <a class="primary-btn" href="https://wa.me/22871676708" target="_blank" >Devenir un sponsor </a>
                         </div>
                     </div>
                 </div>
             </div><!-- .container -->
         </div>
         <!-- Our Event Sponsors End -->
-
-        <!-- Blog Start -->
-        <div id="rs-blog" class="rs-blog sec-spacer gray-color">
-            <div class="container">
-                <div class="sec-title text-center">
-                    <span>Blog Post</span>
-                    <h2>Our Latest Blog News</h2>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30"
-                            data-autoplay="true" data-autoplay-timeout="5000" data-smart-speed="1200" data-dots="false"
-                            data-nav="true" data-nav-speed="false" data-mobile-device="1" data-mobile-device-nav="false"
-                            data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false"
-                            data-ipad-device-dots="false" data-md-device="3" data-md-device-nav="false"
-                            data-md-device-dots="false">
-                            <div class="blog-item">
-                                <div class="blog-img">
-                                    <a href="blog-details.html"><img src="~/assets/images/blog/1.jpg" alt="" /></a>
-                                </div>
-                                <div class="blog-details">
-                                    <div class="blog-date">28 June 2017</div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Social Media Tools to Boost
-                                            Your Event Marketing</a></h4>
-                                    <p>At vero eos et accusamus et iusto odio dignissi mos ducimus qui blanditiis
-                                        praesentium volup tatum deleniti atque</p>
-                                    <a class="readmore-btn" href="blog-details.html">En savoir plus</a>
-                                </div>
-                            </div><!-- .blog-item -->
-
-                            <div class="blog-item">
-                                <div class="blog-img">
-                                    <a href="blog-details.html"><img src="~/assets/images/blog/2.jpg" alt="" /></a>
-                                </div>
-                                <div class="blog-details">
-                                    <div class="blog-date">28 June 2017</div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Event design is much more
-                                            than a pretty venue</a></h4>
-                                    <p>At vero eos et accusamus et iusto odio dignissi mos ducimus qui blanditiis
-                                        praesentium volup tatum deleniti atque</p>
-                                    <a class="readmore-btn" href="blog-details.html">En savoir plus</a>
-                                </div>
-                            </div><!-- .blog-item -->
-
-                            <div class="blog-item">
-                                <div class="blog-img">
-                                    <a href="blog-details.html"><img src="~/assets/images/blog/3.jpg" alt="" /></a>
-                                </div>
-                                <div class="blog-details">
-                                    <div class="blog-date">28 June 2017</div>
-                                    <h4 class="blog-title"><a href="blog-details.html">Social Media Tools to Boost
-                                            Your Event Marketing</a></h4>
-                                    <p>At vero eos et accusamus et iusto odio dignissi mos ducimus qui blanditiis
-                                        praesentium volup tatum deleniti atque</p>
-                                    <a class="readmore-btn" href="blog-details.html">En savoir plus</a>
-                                </div>
-                            </div><!-- .blog-item -->
-                        </div>
-                    </div><!-- .row -->
-                </div>
-            </div><!-- .container -->
-        </div>
-        <!-- Blog End -->
 
         <!-- Contact Start -->
         <section id="rs-footer" class="rs-footer white-bg multi-footer">
