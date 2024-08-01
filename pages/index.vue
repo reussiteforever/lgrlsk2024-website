@@ -82,8 +82,8 @@
                                     </ul>
                                 </nav>
                                 <div class="buy-tickets">
-                                    <a href="https://wa.me/22871676708" target="_blank" class="primary-btn" data-animation-in="lightSpeedIn"
-                                        data-animation-out="animate-out">Votre Ticket Ici</a>
+                                    <a href="https://my.weezevent.com/lgrlsk2024" target="_blank" class="primary-btn" data-animation-in="lightSpeedIn"
+                                        data-animation-out="animate-out">Ticket-Diaspora</a>
                                 </div>
                             </div>
                         </div>
@@ -113,16 +113,6 @@
                                     <div class="countdown-section">
                                         <div id="countdown-3"></div>
                                     </div>
-
-                                    <!-- <div class="banner-counter5"> -->
-                                        <div class="timecounter-inner">
-                                            <div class="coming-soon-part">
-                                                <div class="coming-soon-text">    
-                                                    <div data-animation-in="slideInLeft" data-animation-out="animate-out fadeOut" class="CountDownTimer3" data-date="2018-10-31 00:00:00"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    <!-- </div> -->
 
                                     <a href="https://wa.me/22871676708" target="_blank" class="primary-btn mr-30" data-animation-in="lightSpeedIn"
                                         data-animation-out="animate-out">Rejoignez-nous</a>
@@ -473,6 +463,30 @@
                                 <div class="bottom">
                                     <div class="cl-footer">
                                         <a href="https://wa.me/22871676708" target="_blank" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-12">
+                            <div class="cl-pricetable-wrap price-3">
+                                <div class="top">
+                                    <div class="cl-header">
+                                        <h3>DIASPORA</h3>
+                                        <span>TICKET</span>
+                                    </div>
+                                </div>
+                                <div class="featured">
+                                    <ul>
+                                        <li><i class="feature_icon fa fa-check" aria-hidden="true"></i> OUVERT AU PUBLIC
+                                        </li>
+                                        <li><i class="feature_icon fa fa-check" aria-hidden="true"></i> Pour toute personne vivant hors du Togo
+                                            et désireuse d'être à la soirée de Gala
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="bottom">
+                                    <div class="cl-footer">
+                                        <a href="https://my.weezevent.com/lgrlsk2024" target="_blank" class="btn-table btn-1 hvr-sweep-to-right">Acheter</a>
                                     </div>
                                 </div>
                             </div>

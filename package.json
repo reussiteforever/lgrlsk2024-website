@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "fancy-timer": "^1.0.3",
+    "jquery": "^3.7.1",
     "nuxt": "^3.12.3",
     "vue": "latest"
   }
