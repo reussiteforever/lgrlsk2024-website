@@ -24,23 +24,9 @@ export default defineNuxtConfig({
           "content": "ie-edge"
         }
       ],
-      link: [
-        // {rel:"stylesheet", href:"/css/bootstrap.min.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/font-awesome.min.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/animate.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/owl.carousel.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/slick.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/magnific-popup.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/icofont.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/timeTo.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/rsmenu-main.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/rsmenu-transitions.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/style.css", type:"text/css"},
-        // {rel:"stylesheet", href:"/css/responsive.css", type:"text/css"}
-      ],
+      link: [],
       style: [],
       script: [
-        { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
         { src: "/js/jquery.min.js", type: 'text/javascript' },
         { src: "/js/bootstrap.min.js", type: 'text/javascript' },
         { src: "/js/owl.carousel.min.js", type: 'text/javascript' },
@@ -51,12 +37,11 @@ export default defineNuxtConfig({
         { src: "/js/rsmenu-main.js", type: 'text/javascript' },
         { src: "/js/plugins.js", type: 'text/javascript' },
         { src: "/js/time-circle.js", type: 'text/javascript' },
-        { src: "/js/main.js", type: 'text/javascript' },
-        { src: "/js/jquery.time-to.min.js", type: 'text/javascript' },
         { src: "/js/gmap.js", type: 'text/javascript' },
-        { src: "/js/event-timeline.js", type: 'text/javascript' }
-        // { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
-        // { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' }
+        { src: "/js/event-timeline.js", type: 'text/javascript' },
+        { src: "/js/jquery.time-to.min.js", type: 'text/javascript' },
+        { src: "/js/modernizr-2.8.3.min.js", type: 'text/javascript' },
+        { src: "/js/main.js"}
       ],
       noscript: []
     }
