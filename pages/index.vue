@@ -99,7 +99,7 @@
             <div id="home-banner">
                 <!-- Item 1 -->
                 <div class="item active">
-                    <img src="~/assets/images/banner/1.jpg" alt="" />
+                    <img src="~/assets/images/banner/4.jpg" alt="" />
                     <div class="slide-content text-center">
                         <div class="display-table">
                             <div class="display-table-cell">
